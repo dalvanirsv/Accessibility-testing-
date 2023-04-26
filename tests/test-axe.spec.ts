@@ -3,7 +3,7 @@ import AxeBuilder from '@axe-core/playwright'; // 1
 
 test.describe('homepage', () => { // 2
   test('should not have any automatically detectable accessibility issues', async ({ page }) => {
-    await page.goto('https://www.itau.com.br/'); // 3
+    await page.goto('https://your-site.com/'); // 3
 
     const accessibilityScanResults = await new AxeBuilder({ page }).analyze(); // 4
 
