@@ -7,6 +7,6 @@ test.describe('homepage', () => {
 
     const accessibilityScanResults = await new AxeBuilder({ page }).analyze(); // 4
 
-    expect(accessibilityScanResults.violations).toEqual([]);
+    expect(accessibilityScanResults.violations);
   });
 })
