@@ -1,4 +1,4 @@
-# Playwright accessibility test
+# Playwright Accessibility Test
 
 Sample project to demonstrate a playwrite custom command.
 
