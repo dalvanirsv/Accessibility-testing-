@@ -13,9 +13,9 @@ Run npm install (or npm i for the short version) to install the dev dependencies
 
 ## Running Tests
 Running all tests;
-npx playwright test;
+Npx playwright test;
 Running a single test file;
-npx playwright test landing-page.spec.ts;
+Npx playwright test landing-page.spec.ts;
 
 ## Support this project
 If you want to support this project, leave a star.
