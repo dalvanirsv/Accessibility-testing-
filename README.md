@@ -20,6 +20,9 @@ Npx playwright test landing-page.spec.ts;
 ## Support this project
 If you want to support this project, leave a star.
 
+## documentation link
+
+[Acessibility-Testing-Documentation](https://playwright.dev/docs/accessibility-testing)
 ___
 
 This project was created with green_heart 💚 by [Dalvanir](https://www.linkedin.com/in/dalvanir-vieira-da-silva-7715a5191/).
