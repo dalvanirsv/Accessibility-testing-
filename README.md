@@ -20,7 +20,7 @@ Npx playwright test landing-page.spec.ts;
 ## Support this project
 If you want to support this project, leave a star.
 
-## documentation link
+## Documentation Link
 
 [Acessibility-Testing-Documentation](https://playwright.dev/docs/accessibility-testing)
 ___
