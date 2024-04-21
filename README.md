@@ -25,5 +25,5 @@ If you want to support this project, leave a star.
 [Acessibility-Testing-Documentation](https://playwright.dev/docs/accessibility-testing)
 ___
 
-This project was created with green_heart 💚 by [Dalvanir](https://www.linkedin.com/in/dalvanir-vieira-da-silva-7715a5191/).
+This project was created with green_heart 💚 by [Dalvanir](https://www.linkedin.com/in/dalvanir-vieira-7715a5191/).
 
